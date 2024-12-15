@@ -10,8 +10,11 @@
 
 ## Installation 
 
-* Install by downloading the latest full WAMP server installer from the official website. Note that if running 64-bit Windows, installation of both 32 and 64 bit versions is needed. 
-Administrative rights are needed in order to install the server properly. Ensure by right clicking and running the installer with appropriate grants.
+* Install by downloading the latest full WAMP server installer from the official website.
+
+* Note that if running 64-bit Windows, installation of both 32 and 64 bit versions is needed. 
+
+* Administrative rights are needed in order to install the server properly. Ensure by right clicking and running the installer with appropriate grants.
 
 
 ## Getting Started
