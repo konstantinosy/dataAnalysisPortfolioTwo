@@ -10,7 +10,7 @@
 
 ## Installation 
 
-* Install by downloading the latest full WAMP server installer from the official website.
+* Install by downloading the latest full WAMP server installer from the official website found below.
 
 * Note that if running 64-bit Windows, installation of both 32 and 64 bit versions is needed. 
 
