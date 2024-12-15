@@ -6,7 +6,7 @@
 
 * FAT 32 or exFAT is unfortunately not supported. WAMP requires a disk or a formatted NTFS partition.
 
-* Certain Visual C++ packages need to be up to date, and such further information is found below.
+* Certain Visual C++ packages need to be up to date, and such further information is found in the Further Resources part.
 
 ## Installation 
 
@@ -18,11 +18,11 @@ Administrative rights are needed in order to install the server properly. Ensure
 
 * After installation of WAMP server launch phpMyAdmin via the taskbar icon.
 
-* The default username is “root” without a password.
+* The default username is `root` without a password.
 
 * Create a new database and name it as you find fit.
 
-* Next, select the Import tab in order to import the downloaded database found from the repository.
+* Select the `Import` tab in order to import the downloaded [database](https://github.com/konstantinosy/dataAnalysisPortfolioTwo/blob/main/Database.sql) found from the repository.
 
 ## Further Resources
 
