@@ -29,5 +29,5 @@
 
 ## Further Resources
 
-* Wamp Server: https://wampserver.aviatechno.net/?lang=en&prerequis=afficher
+* [Further Wamp Server Documentation](https://wampserver.aviatechno.net/?lang=en&prerequis=afficher).
 
