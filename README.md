@@ -44,7 +44,7 @@
 
 ### Microsoft Access
 
-* Download the Microsoft Access file from the GitHub repository and open it in Microsoft Access. 
+* Download the [Microsoft Access file](https://github.com/konstantinosy/dataAnalysisPortfolioTwo/blob/main/database.accdb) from the GitHub repository and open it in Microsoft Access. 
 
 ## Further Resources
 
