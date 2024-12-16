@@ -44,7 +44,7 @@
 
 ### Microsoft Access
 
-* Download the Microsoft Access file from the GitHub repository found below and open it in Microsoft Access. 
+* Download the Microsoft Access file from the GitHub repository and open it in Microsoft Access. 
 
 ## Further Resources
 
